@@ -1,0 +1,9 @@
+
+
+.person {float:left; width:150; text-align:center;border: solid thin #ccc; margin:5px;padding:5px; font-family:Verdana; font-size:12px;}
+.company {float:left; width:150; text-align:center;border: solid thin #ccc; margin:5px;padding:5px; font-family:Verdana; font-size:12px; background-color: #f2f2f2; font-weight: bold;}
+.number {font-size:20px;}
+.summary {font-size: 10px;}
+
+h1 {font-family:Verdana; font-size:24px;}
+h3 {font-family:Verdana; font-size:14px; color: gray;}
